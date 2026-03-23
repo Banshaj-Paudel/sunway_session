@@ -1,6 +1,6 @@
 # Introduction
 
 - Name: Kashish Dhami
--Age: 20
+- Age: 20
 
 
